@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-- 🌱 I’m currently learning **C# DOTNET MSSQL**
+ 🌱 I’m currently learning **C# DOTNET MSSQL**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amanp17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanp17" height="30" width="40" /></a>
